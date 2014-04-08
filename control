@@ -1,0 +1,9 @@
+Package: com.hangcom.weixin
+Name:WeChat Account Switch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Good software!
+Maintainer: hangcom
+Author: hangcom
+Section: Util
